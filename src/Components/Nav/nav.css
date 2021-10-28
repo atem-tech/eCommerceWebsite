@@ -1,0 +1,29 @@
+nav {
+  height: 10vh;
+  min-height: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #0f1111;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.title {
+  margin-left: 100px;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  margin-right: 75px;
+}
+
+.icon {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
